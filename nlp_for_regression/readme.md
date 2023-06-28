@@ -1,4 +1,4 @@
-# [Application the Bert-like NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/blob/main/nlp_for_regression/ebay_lenses_proj.ipynb)
+# [Application of the Transformer-based Encoder NLP model for a regression task](https://github.com/ivan-aleshin/pet_projects/blob/main/nlp_for_regression/ebay_lenses_proj.ipynb)
 
 [Dataset-compressed](https://github.com/ivan-aleshin/pet_projects/blob/main/nlp_for_regression/data_lens_final.rar)  
 [Study Project](https://github.com/ivan-aleshin/pet_projects/blob/main/nlp_for_regression/ebay_lenses_proj.ipynb)
